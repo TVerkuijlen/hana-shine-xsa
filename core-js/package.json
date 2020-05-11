@@ -16,7 +16,7 @@
 		"@sap/hdbext": "4.3.4",
 		"@sap/xsjs": "1.16.2",
 		"@sap/jobs-client": "1.1.1",
-		"body-parser": "1.17.1",
+		"body-parser": "1.19.0",
 		"@sap/audit-logging": "2.0.1",
 		"accept-language-parser": "1.2.0",
 		"xmldoc": "0.5.1",
