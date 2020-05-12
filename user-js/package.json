@@ -13,7 +13,7 @@
 		"express": "4.15.3",
 		"passport": "0.3.2",
 		"winston": "2.3.0",
-		"async": "2.1.4",
+		"async": "2.6.3",
 		"body-parser": "1.17.1"
 	},
 	"devDependencies": {},
