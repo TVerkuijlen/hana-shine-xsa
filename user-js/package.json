@@ -10,7 +10,7 @@
 		"@sap/cds": "1.14.0",
 		"@sap/logging": "3.0.0",
 		"@sap/jobs-client": "1.1.1",
-		"express": "4.15.3",
+		"express": "4.17.1",
 		"passport": "0.3.2",
 		"winston": "2.3.0",
 		"async": "2.1.4",
